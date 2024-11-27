@@ -1,6 +1,6 @@
 # Lending-Club-Case-Study-OM
                                                                 INTRODUCTION
-in his case study aims to give an idea of applying EDA in a real business scenario. In this case study, we will apply the EDA techniques towards developing a basic understanding of loan default.r
+In his case study aims to give an idea of applying EDA in a real business scenario. In this case study, we will apply the EDA techniques towards developing a basic understanding of loan default.r
 we will be doing analysis on loan data given ,which contains loan given to different group and default marked as cross charged.Here aim is to get an insight
                                                                  BUSINESS CASE
 You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
